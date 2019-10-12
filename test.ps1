@@ -1,4 +1,2 @@
 hostname
-netstat
-ipconfig
-systeminfo
+
