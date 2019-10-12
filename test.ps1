@@ -1,2 +1,4 @@
-ifconfig
-whoami
+hostname
+netstat
+ipconfig
+systeminfo
